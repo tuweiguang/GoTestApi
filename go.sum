@@ -1,13 +1,3 @@
-github.com/tuweiguang/GoTestLib v0.0.0-20190906040814-a95bafec6648 h1:VfQBIJKgIN8lgFTR7pxfcD3BnYXKFGiE11+rA41ta9Y=
-github.com/tuweiguang/GoTestLib v0.0.0-20190906040814-a95bafec6648/go.mod h1:Oeto69u+Bjg5iL6sEf1GguoQ85Yrv/YHiVZGXOZq7HU=
-github.com/tuweiguang/GoTestLib v0.0.1 h1:yGOatuTBQ8aLmDPLvBnfK0JDzrIBlAGAg7e5fVKvINA=
-github.com/tuweiguang/GoTestLib v0.0.1/go.mod h1:Oeto69u+Bjg5iL6sEf1GguoQ85Yrv/YHiVZGXOZq7HU=
-github.com/tuweiguang/GoTestLib v0.0.2 h1:ZAmqimtqwblFLOmObyZLfacoUx59irlPdJ875eMhxio=
-github.com/tuweiguang/GoTestLib v0.0.2/go.mod h1:Oeto69u+Bjg5iL6sEf1GguoQ85Yrv/YHiVZGXOZq7HU=
-github.com/tuweiguang/GoTestLib v0.0.3 h1:W55azxat/Nmpo22sGrX+4mEhobWimFu480K4Mv2Nabc=
-github.com/tuweiguang/GoTestLib v0.0.3/go.mod h1:Oeto69u+Bjg5iL6sEf1GguoQ85Yrv/YHiVZGXOZq7HU=
-github.com/tuweiguang/GoTestLib v0.0.4 h1:p5bOKDRr3vmqVPZTMjgWwkyyQoOP1CifxdcPdxQLAEI=
-github.com/tuweiguang/GoTestLib v0.0.4/go.mod h1:Oeto69u+Bjg5iL6sEf1GguoQ85Yrv/YHiVZGXOZq7HU=
 github.com/tuweiguang/GoTestLib v0.0.5 h1:EC5pWmPdQbXPB7qUkI18rvwKRSk8Yp8MGxD6qDwNUIs=
 github.com/tuweiguang/GoTestLib v0.0.5/go.mod h1:Oeto69u+Bjg5iL6sEf1GguoQ85Yrv/YHiVZGXOZq7HU=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
