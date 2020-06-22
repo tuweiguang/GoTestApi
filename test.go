@@ -28,4 +28,6 @@ func main() {
 	fmt.Println("end")
 
 	fmt.Println("hello jenkins")
+
+	fmt
 }
